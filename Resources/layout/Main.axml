@@ -6,9 +6,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="bottom"
-  app:collapsedHeight="68dp"
-  app:shadowHeight="4dp"
-  app:fadeColor="#FFDDAADD"
+    app:collapsedHeight="68dp"
+    app:shadowHeight="4dp"
+    app:fadeColor="#FFDDAADD"
   >
 
   <RelativeLayout
